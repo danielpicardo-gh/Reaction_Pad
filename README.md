@@ -6,11 +6,10 @@ I downloaded Kicad and set up Kicad wakatime [40 minutes]
 ## Pathfinder Session 2
 What I did:
 I Started making my schematic
-<img width="433" height="505" alt="Screenshot 2025-12-03 163451" src="https://github.com/user-attachments/assets/ec1e4a5c-a867-46b3-8aa3-e9ef8fff72f0" />
+<img width="644" height="494" alt="Screenshot 2025-12-03 163455" src="https://github.com/user-attachments/assets/73a753aa-5b33-41e5-bf33-62794d76df7f" />
 ## Pathfinder Session 3
 What I did:
-I added footprints and edited PCB Editor and schematic
-<img width="644" height="494" alt="Screenshot 2025-12-03 163455" src="https://github.com/user-attachments/assets/73a753aa-5b33-41e5-bf33-62794d76df7f" />
+I added footprints and edited PCB Editor
 <img width="623" height="514" alt="Screenshot 2025-12-03 163510" src="https://github.com/user-attachments/assets/fdc457bb-1036-476a-b4ca-c73ca9466867" />
 ## Pathfinder Session 4
 What I did
