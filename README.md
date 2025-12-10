@@ -13,7 +13,8 @@ I downloaded footprints and wired in the pcb editor and edited schematic
 
 ## Pathfinder session 4 [20 minutes]
 I added 3d models to the pcb, edited PCB editor and got all the production files
-<img width="968" height="817" alt="Screenshot 2025-11-21 161011" src="https://github.com/user-attachments/assets/710dce56-ef16-4003-9bc3-7fd3907856c2" />
+<img width="657" height="517" alt="image" src="https://github.com/user-attachments/assets/f1ecaa15-0792-40db-bacb-ebbee52cc248" />
+<img width="744" height="559" alt="image" src="https://github.com/user-attachments/assets/956b0cbd-1a7b-4e55-bf31-9242364055a1" />
+<img width="772" height="533" alt="image" src="https://github.com/user-attachments/assets/ba15dfac-62dd-42be-b146-e75e240589ff" />
 
-<img width="845" height="712" alt="Screenshot 2025-11-21 161022" src="https://github.com/user-attachments/assets/d62c5855-9e54-43f4-aa9f-02634f3f6ec1" />
-<img width="877" height="653" alt="Screenshot 2025-11-21 162807" src="https://github.com/user-attachments/assets/cfaab144-ed97-476f-a053-3246744326f8" />
+
