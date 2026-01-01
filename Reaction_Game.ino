@@ -25,8 +25,8 @@ void setup() {
 
 void loop() {
   if (wrongCount >= 3) {
-    flashAll(3); 
-    while (1);   
+   flashAll(3); 
+   while (1);   
   }
 
   int flickers = random(1, 3); 
@@ -35,8 +35,8 @@ void loop() {
 
   for (int f = 0; f < flickers; f++) {
     for (int i = 0; i < numLEDs; i++) {
-      int led = random(1,5); 
-      turnOnLED(led);
+     int led = random(1,5); 
+     turnOnLED(led);
     }
     delay(300);
     allLEDsOff();
