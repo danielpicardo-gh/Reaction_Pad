@@ -85,6 +85,6 @@ void flashAll(int times) {
     digitalWrite(LED4,HIGH);
     delay(200);
     allLEDsOff();
-    delay(200);S
+    delay(200);
   }
 }
